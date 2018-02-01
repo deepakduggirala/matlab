@@ -1,0 +1,12 @@
+No:of links: 3
+
+simulation settings:
+endTime = 1.000000
+timeStep = 0.001000
+Maximum Absolute Errors:
+Link-1	0.003213 @ 693.000000
+Link-1	0.000607	0.000862	0.000000
+Link-2	0.005305 @ 987.000000
+Link-2	0.001986	0.001591	0.001039
+Link-3	0.010964 @ 939.000000
+Link-3	0.003868	0.002409	0.002801

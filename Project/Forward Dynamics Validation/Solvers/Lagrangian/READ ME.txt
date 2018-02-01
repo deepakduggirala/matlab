@@ -1,0 +1,13 @@
+Files needed to run Lagrangian
+1.getModel
+2.LE_solver
+3.mainQ
+4.ADAMS reference data file(.dat)
+
+Settings:
+In getModel
+	1.l0
+	2.n0
+	3.inertia matrices for each link
+In mainQ
+	1.Reference data filename

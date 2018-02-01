@@ -1,0 +1,2 @@
+simulation(model, solver, integrator, report) - uses given model, solver(function handle) to develop graphs of linkage simulation(if report is set to 1)
+with either euler or RK4 integrator(specified as argument)

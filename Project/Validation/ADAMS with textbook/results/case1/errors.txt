@@ -1,0 +1,5 @@
+Model used = model1
+simulation time = 1s
+timeStep = 0.001
+Maximum absolute error in link1 is 0.0023 at 930 timestep in y coords
+Maximum absolute error in link2 is 0.0047 at 854 timestep in y coords
